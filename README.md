@@ -9,7 +9,7 @@
 #### Add the following dependency to your app’s build.gradle:
 
 ```
-implementation 'de.ihreapotheken.sdk.cardlink:1.4.0'
+implementation 'de.ihreapotheken.sdk.cardlink:latest_version'
 ```
 #### Modify your settings.gradle:
 ```
